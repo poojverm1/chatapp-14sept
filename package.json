@@ -29,6 +29,8 @@
     "ngx-bootstrap": "^3.0.1",
     "ngx-toastr": "^9.0.2",
     "rxjs": "~6.2.0",
+    "rxjs-compat": "^6.3.2",
+    "socket.io": "^2.1.1",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
